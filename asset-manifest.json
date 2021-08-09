@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/js/0.540e88c4.chunk.js": "/great-quotrs/static/js/0.540e88c4.chunk.js",
+    "static/js/0.540e88c4.chunk.js.map": "/great-quotrs/static/js/0.540e88c4.chunk.js.map",
+    "main.css": "/great-quotrs/static/css/main.bcad4253.chunk.css",
+    "main.js": "/great-quotrs/static/js/main.0efd60b5.chunk.js",
+    "main.js.map": "/great-quotrs/static/js/main.0efd60b5.chunk.js.map",
+    "runtime-main.js": "/great-quotrs/static/js/runtime-main.8f915d60.js",
+    "runtime-main.js.map": "/great-quotrs/static/js/runtime-main.8f915d60.js.map",
+    "static/js/3.2cbfab3f.chunk.js": "/great-quotrs/static/js/3.2cbfab3f.chunk.js",
+    "static/js/3.2cbfab3f.chunk.js.map": "/great-quotrs/static/js/3.2cbfab3f.chunk.js.map",
+    "static/css/4.03e1ac1c.chunk.css": "/great-quotrs/static/css/4.03e1ac1c.chunk.css",
+    "static/js/4.5a3eab4a.chunk.js": "/great-quotrs/static/js/4.5a3eab4a.chunk.js",
+    "static/js/4.5a3eab4a.chunk.js.map": "/great-quotrs/static/js/4.5a3eab4a.chunk.js.map",
+    "static/css/5.27fc80c8.chunk.css": "/great-quotrs/static/css/5.27fc80c8.chunk.css",
+    "static/js/5.f5b1845c.chunk.js": "/great-quotrs/static/js/5.f5b1845c.chunk.js",
+    "static/js/5.f5b1845c.chunk.js.map": "/great-quotrs/static/js/5.f5b1845c.chunk.js.map",
+    "static/css/6.ad55f907.chunk.css": "/great-quotrs/static/css/6.ad55f907.chunk.css",
+    "static/js/6.5445ad27.chunk.js": "/great-quotrs/static/js/6.5445ad27.chunk.js",
+    "static/js/6.5445ad27.chunk.js.map": "/great-quotrs/static/js/6.5445ad27.chunk.js.map",
+    "static/js/7.73c7113d.chunk.js": "/great-quotrs/static/js/7.73c7113d.chunk.js",
+    "static/js/7.73c7113d.chunk.js.map": "/great-quotrs/static/js/7.73c7113d.chunk.js.map",
+    "index.html": "/great-quotrs/index.html",
+    "static/css/4.03e1ac1c.chunk.css.map": "/great-quotrs/static/css/4.03e1ac1c.chunk.css.map",
+    "static/css/5.27fc80c8.chunk.css.map": "/great-quotrs/static/css/5.27fc80c8.chunk.css.map",
+    "static/css/6.ad55f907.chunk.css.map": "/great-quotrs/static/css/6.ad55f907.chunk.css.map",
+    "static/css/main.bcad4253.chunk.css.map": "/great-quotrs/static/css/main.bcad4253.chunk.css.map",
+    "static/js/3.2cbfab3f.chunk.js.LICENSE.txt": "/great-quotrs/static/js/3.2cbfab3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f915d60.js",
+    "static/js/3.2cbfab3f.chunk.js",
+    "static/css/main.bcad4253.chunk.css",
+    "static/js/main.0efd60b5.chunk.js"
+  ]
+}
